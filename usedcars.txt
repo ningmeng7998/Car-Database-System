@@ -1,0 +1,7 @@
+1yx984,2014,black,white,,toyota,rav4,25000
+abc132,2007,yellow,,,toyota,corolla,5900
+mary,2017,,blue,red,bmw,116d,55132
+38000,2012,blue,,,honda,civic,9200
+ww,222,e,d,r,rr,rr,2222
+aa,111,d,w,a,w,d,111
+d,11,w,d,r,s,s,22
