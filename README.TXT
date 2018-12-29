@@ -1,5 +1,4 @@
 PROJECT TITLE:Car Database System
-PURPOSE OF PROJECT:Assignment 2
 VERSION or DATE: 06/10/2017
 HOW TO START THIS PROJECT:
 1.Start the syatem by selecting 'start'.
